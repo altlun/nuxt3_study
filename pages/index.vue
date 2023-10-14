@@ -4,7 +4,7 @@
 
 <template>
     <div>
-        <h1>
+        <h1 class="text-3xl font-bold underline text-sky-800">
             Hello nuxt and dummyjson!!
         </h1>
         <NuxtLink to="/about">About</NuxtLink>
